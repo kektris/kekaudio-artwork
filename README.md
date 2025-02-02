@@ -1,4 +1,4 @@
-# KekAudio Artwork
+# KekAudio Artwork addon
 Add covers for tracks in [KekAudio](https://github.com/kektris/kekaudio)
 
 ![image](https://github.com/user-attachments/assets/edcfcefc-9bc1-4f65-b62b-69c529c08dd7)
